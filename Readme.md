@@ -1,5 +1,5 @@
 This is a full image resizer that can be used in a terminal.  
-To run open the script in a terminal and follow the instructions.  
+To run, open the script in a terminal and follow the instructions.  
 This project has another repository with updated code that works with Streamlit.  
 To visit the web app click [here](https://image--resizer/streamlit.app)  
 To visit the updated code for Streamlit repo click [here](https://github.com/workwitharfaaz/Image-Resizer-Streamlit-)  
